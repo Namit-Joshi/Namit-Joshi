@@ -17,5 +17,5 @@
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-joshi.namit10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joshi.namit10@gmail.com)
 &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-namit.joshi10-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white)](https://www.instagram.com/namit.joshi10/)
+[![Instagram Badge](https://img.shields.io/badge/-namit.joshi10-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white)](https://www.instagram.com/namit10_/)
 &nbsp;
